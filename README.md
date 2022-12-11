@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **xo4813/xo4813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
